@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+body.danger {
+  background-color: #FF4E4E;
+}
+
+p {
+  font-family: "Tahoma", sans-serif;
+  font-size: 12pt;
+}
+
+h1 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 32pt;
+  text-align: center;
+}
+
+h1.danger {
+  font-family: "Copperplate Gothic", serif;
+}
+
+img {
+  width: 50%;
+}
