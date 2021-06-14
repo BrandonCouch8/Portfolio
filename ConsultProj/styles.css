@@ -1,9 +1,5 @@
 body {
-  background-color: lightblue;
-}
-
-body.danger {
-  background-color: #FF4E4E;
+  background-color: gray;
 }
 
 p {
@@ -17,10 +13,9 @@ h1 {
   text-align: center;
 }
 
-h1.danger {
-  font-family: "Copperplate Gothic", serif;
-}
-
 img {
   width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
